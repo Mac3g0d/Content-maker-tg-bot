@@ -1,0 +1,4 @@
+pyTelegramBotAPI
+pillow
+bs4
+cloudinary
